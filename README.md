@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxinho96" alt="maxinho96" /></a> </p>
 
-- 🔭 I’m currently working at [Prima]([https://www.helloprima.com])
+- 🔭 I’m currently working at [Prima](https://www.helloprima.com)
 
 - 💬 Ask me about **Python, Machine Learning, Docker, Kubernetes, AWS, MLOps**
 
