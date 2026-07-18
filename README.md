@@ -2,7 +2,7 @@
 
 ### An experienced Python Software Engineer specialized in Machine Learning
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maxinho96&label=Profile views&color=0e75b6&style=flat" alt="Maxinho96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxinho96&label=Profile%20views&color=0e75b6&style=flat)" alt="Maxinho96" /> </p>
 
 - 🔭 I'm currently working on **projects at [Prima](https://www.helloprima.com)**
 
